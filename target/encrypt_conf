@@ -1,0 +1,5 @@
+[encrypt]
+is_dat = 1
+is_pyc = 1
+is_front_pac = 0
+is_front_enc = 0

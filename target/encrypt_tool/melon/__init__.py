@@ -1,0 +1,1 @@
+from .melon import encrypt, decrypt
